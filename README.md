@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Time
+# Desenvolvedora
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/146020906?v=4" width=115><br><sub>Natalia Salatiel</sub>](https://github.com/nat-salatiel) ||
 | :---: | :---: |
